@@ -16,9 +16,13 @@ First, create a folder for the data and include the desired content image in /pa
 
  ` python Grid_Generation.py --content /path/to/content/ --max_dim grid_resolution  --max_ite maximum_iterations`
 
+For the Scattered data interpolation with multilevel B-Splines in the grid generation process, we used the following [python library](https://github.com/ddemidov/mba).
+
+
 ## Generate the HeadcutDrawing
 
 
 The segmentation of the content image is included in /path/to/data/folder/Content/Segmentation with the same name as the corresponding content image. Then run the script for the generation of the HedcutDrawing. The hedcut will be stored in /path/to/data/folder/output.
 
  ` python HedcutDrawing_Generation.py --data_folder /path/to/data/folder/ --max_ite maximum_iterations`
+
