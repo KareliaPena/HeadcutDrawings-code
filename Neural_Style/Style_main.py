@@ -1,8 +1,4 @@
-"""
-Created on Mon Nov  5 19:42:49 2018
 
-@author: kareliap
-"""
 
 from glob import glob
 import matplotlib.pyplot as plt

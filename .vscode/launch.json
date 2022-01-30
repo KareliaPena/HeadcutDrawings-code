@@ -9,11 +9,7 @@
             "type": "python",
             "request": "launch",
             "program": "${workspaceFolder}/Grid_Generation.py",
-            "console": "integratedTerminal",
-            "args": [
-                "--content", "./Data/sample/Content/Image",
-                
-            ]
+            "console": "integratedTerminal"
         },
         {
             "name": "Python: HedcutDrawing Generation",

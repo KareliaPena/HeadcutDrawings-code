@@ -1,8 +1,4 @@
-"""
-Created on Mon Nov 18 18:00:29 2019
 
-@author: kareliap
-"""
 
 import argparse
 import Neural_Style.Style_main as StyleGenerator
