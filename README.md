@@ -1,4 +1,4 @@
-# HedcutDrawings: Rendering hedcut style portraits
+# [HedcutDrawings: Rendering hedcut style portraits](https://doi.org/10.2312/sr.20221160)
 
 We propose a new neural-based style transfer algorithm for the generation of hedcut drawings that uses side information to impose additional constraints on the direction of the dots.
  
